@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hendy\\Visual Studio\\KafkaDemo\\KafkaDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D55D970D-7114-4024-A007-12AA0BB536E2}|KafkaDemo\\KafkaDemo.csproj|d:\\hendy\\visual studio\\kafkademo\\kafkademo\\kafkademo\\controllers\\customerjobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D55D970D-7114-4024-A007-12AA0BB536E2}|KafkaDemo\\KafkaDemo.csproj|solutionrelative:kafkademo\\controllers\\customerjobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D55D970D-7114-4024-A007-12AA0BB536E2}|KafkaDemo\\KafkaDemo.csproj|d:\\hendy\\visual studio\\kafkademo\\kafkademo\\kafkademo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D55D970D-7114-4024-A007-12AA0BB536E2}|KafkaDemo\\KafkaDemo.csproj|solutionrelative:kafkademo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D55D970D-7114-4024-A007-12AA0BB536E2}|KafkaDemo\\KafkaDemo.csproj|d:\\hendy\\visual studio\\kafkademo\\kafkademo\\kafkademo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D55D970D-7114-4024-A007-12AA0BB536E2}|KafkaDemo\\KafkaDemo.csproj|solutionrelative:kafkademo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D55D970D-7114-4024-A007-12AA0BB536E2}|KafkaDemo\\KafkaDemo.csproj|d:\\hendy\\visual studio\\kafkademo\\kafkademo\\kafkademo\\kafkademo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D55D970D-7114-4024-A007-12AA0BB536E2}|KafkaDemo\\KafkaDemo.csproj|solutionrelative:kafkademo\\kafkademo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerJobController.cs",
+              "DocumentMoniker": "D:\\Hendy\\Visual Studio\\KafkaDemo\\KafkaDemo\\KafkaDemo\\Controllers\\CustomerJobController.cs",
+              "RelativeDocumentMoniker": "KafkaDemo\\Controllers\\CustomerJobController.cs",
+              "ToolTip": "D:\\Hendy\\Visual Studio\\KafkaDemo\\KafkaDemo\\KafkaDemo\\Controllers\\CustomerJobController.cs",
+              "RelativeToolTip": "KafkaDemo\\Controllers\\CustomerJobController.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAkwB4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T01:19:13.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hendy\\Visual Studio\\KafkaDemo\\KafkaDemo\\KafkaDemo\\Program.cs",
+              "RelativeDocumentMoniker": "KafkaDemo\\Program.cs",
+              "ToolTip": "D:\\Hendy\\Visual Studio\\KafkaDemo\\KafkaDemo\\KafkaDemo\\Program.cs",
+              "RelativeToolTip": "KafkaDemo\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAnwBQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T01:19:34.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Hendy\\Visual Studio\\KafkaDemo\\KafkaDemo\\KafkaDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "KafkaDemo\\appsettings.json",
+              "ToolTip": "D:\\Hendy\\Visual Studio\\KafkaDemo\\KafkaDemo\\KafkaDemo\\appsettings.json",
+              "RelativeToolTip": "KafkaDemo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-17T01:19:45.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KafkaDemo.http",
+              "DocumentMoniker": "D:\\Hendy\\Visual Studio\\KafkaDemo\\KafkaDemo\\KafkaDemo\\KafkaDemo.http",
+              "RelativeDocumentMoniker": "KafkaDemo\\KafkaDemo.http",
+              "ToolTip": "D:\\Hendy\\Visual Studio\\KafkaDemo\\KafkaDemo\\KafkaDemo\\KafkaDemo.http",
+              "RelativeToolTip": "KafkaDemo\\KafkaDemo.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-17T01:19:25.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
